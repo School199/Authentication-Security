@@ -1,3 +1,6 @@
+"scripts": {
+   "start": "node index.js"
+}
 {
   "name": "secrets---starting-code",
   "version": "1.0.0",
